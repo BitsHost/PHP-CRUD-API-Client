@@ -22,7 +22,7 @@
  */
 
 
-const API_URL = "http://localhost/JS/genapi/v8/public/index.php"; // Adjust to your backend location
+const API_URL = "http://localhost/yourEndPointURL"; // Adjust to your backend location
 
 let authToken = null;
 let basicAuth = null;
