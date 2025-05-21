@@ -39,10 +39,10 @@ It provides a simple UI for listing, creating, editing, and deleting table rows 
 
 1. **Set API Endpoint**
 
-    Edit `.env` and set:
+    Edit `App.js` and set:
 
     ```
-    REACT_APP_API_URL=http://localhost/index.php
+    const API_URL = "http://localhost/JS/genapi/v8/public/index.php";
     ```
 
     > If your PHP API is running on a different host or port, update the URL accordingly.
