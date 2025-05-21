@@ -39,7 +39,7 @@ It provides a simple UI for listing, creating, editing, and deleting table rows 
 
 1. **Set API Endpoint**
 
-    Edit `App.js` and set:
+    Edit `api.js` and set:
 
     ```
     const API_URL = "http://localhost/JS/genapi/v8/public/index.php";
